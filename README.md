@@ -1,16 +1,18 @@
 <div align="center">
 
 <img src="assets/yeahtoast.png" width="96" alt="BurntToast" />
+**BurntToast**
+studio that have only one member 🥀
+
 
 # Paradoxism
 
 building software, games, and strange little ideas
 
-**BurntToast**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=arch,linux,rust,ts,js,lua,java,python,kotlin,html,css,react,flutter,git,github,vscodium" height="34" />
+<img src="https://skillicons.dev/icons?i=arch,linux,rust,ts,js,lua,java,python,kotlin,html,css,react,git,github,vscodium" height="34" />
 
 <br><br>
 
