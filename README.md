@@ -1,8 +1,10 @@
 <div align="center">
 
 <img src="assets/yeahtoast.png" width="96" alt="BurntToast" />
+
 **BurntToast**
-studio that have only one member 🥀
+
+studio that have only one member 🥀 
 
 
 # Paradoxism
